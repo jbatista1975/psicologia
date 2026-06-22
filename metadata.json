@@ -1,0 +1,6 @@
+{
+  "name": "Cade Psicologia",
+  "description": "Um aplicativo editorial e elegante para cadastro e exclusão de paciêntes, utilizando banco de dados SQLite (Room) para persistência segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
